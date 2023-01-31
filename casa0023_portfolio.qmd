@@ -1,0 +1,49 @@
+---
+title: "casa0023_portfolio"
+author: "Atsumi Hirose"
+format: html
+editor: visual
+---
+
+# Introduction
+
+This is a learning diary of Atsumi Hirose.
+
+I am looking forward to learning remote sensing on this module!
+
+I have doctoral and postdoctoral training in epidemiology (of maternal and newborn health). I also have a master degree in Demography. My research so far has mainly focused on understanding health system factors that influence maternal and newborn health outcomes in resource-limited countries in Asia and Sub-Saharan Africa. But I am also interested in environmental factors influencing pregnancy outcomes. This includes spatial health inequalities such as the physical distances between home and health facilities or where women live which manifests in varying health outcomes, particularly pregnancy outcome.
+
+In pursuit of my interests, I have become interested to using Earth Observation data for my research as traditional health survey data do not provide sufficient information with good coverage to understand the environments where women live.
+
+Anyway, I am looking forward to learning how to manipulate remotely sensed data including Google Earth Engine later in the term <https://quarto.org>.
+
+# Week 1
+
+## Summary
+
+Amongst the many points addressed in the lectures were: 1. Earth Observation data uses electromagnetic radiation reflected or emitted from the object or area of interest that travels at the speed of light to obtain data. Some objects can be more able to be detected in a certain light than other. eg. leaves of the trees in . 2.
+
+1.  Two types of sensors to record electromagnetic radiation
+    1.  Passive sensors record EMR reflected or emitted from the terrain.
+
+    2.  Active sensors such as LiDAR or RADAR emit electromagnetic waves and record the amount of radiant flux that travelled back to the sensors.
+2.  
+
+## Applications
+
+## Reflection
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
