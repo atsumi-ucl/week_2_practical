@@ -21,13 +21,17 @@ Anyway, I am looking forward to learning how to manipulate remotely sensed data 
 
 ## Summary
 
-Amongst the many points addressed in the lectures were: 1. Earth Observation data uses electromagnetic radiation reflected or emitted from the object or area of interest that travels at the speed of light to obtain data. Some objects can be more able to be detected in a certain light than other. eg. leaves of the trees in . 2.
+Amongst the many points addressed in the lectures were: 1. Earth Observation data uses electromagnetic radiation reflected or emitted from the object or area of interest that travels at the speed of light to obtain data. and 2. Some objects can be more able to be detected in a certain light than others. eg. leaves of the trees in xx
 
 1.  Two types of sensors to record electromagnetic radiation
+
     1.  Passive sensors record EMR reflected or emitted from the terrain.
 
-    2.  Active sensors such as LiDAR or RADAR emit electromagnetic waves and record the amount of radiant flux that travelled back to the sensors.
-2.  
+    2.  Active sensors such as LiDAR (on aircrafts), SAR or RADAR emit electromagnetic waves and record the amount of radiant flux (energy per unit of time) that travelled back to the sensors. These are used to develop the DEM, digital elevation model, using the speed of travel to measure the distance between the point on the terrain and the location of the sensor. SAR can see through clouds.
+
+2.  SCATTERING: Why is the sky black on the moon? (no atmosphere) Why is the sky blue? (short waves scattered) Why is the sky red when the sun goes down?
+
+3.  Why is the ocean blue?  - water absorbs the red yellow and green waves but reflects /scatters blue.
 
 ## Applications
 
